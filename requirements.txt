@@ -1,0 +1,7 @@
+Flask
+Flask-migrate
+Flask-CORS
+Flask-SQLAlchemy
+pyodbc
+pydantic
+pydantic[email]
